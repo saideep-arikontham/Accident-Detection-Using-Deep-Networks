@@ -1,0 +1,8 @@
+{
+    "name": "cnn_accident_model_23.pth",
+    "path": "/Users/saideepbunny/Coursework/PRCV/Accident-Detection-Using-Deep-Networks/models/cnn_models/cnn_accident_model_23.pth",
+    "conv_layers": 3,
+    "linear_layers": 2,
+    "dropout_rate": 0.20137028821881847,
+    "hidden_units": 512
+}
